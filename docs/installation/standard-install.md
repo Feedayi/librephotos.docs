@@ -34,7 +34,7 @@ Open `.env` in your favorite text editor and make the required changes. E.g., us
 
 Do not forget to create the directories you specified in the `.env` file if they do not exist.
 
-Start LibrePhotos with `docker-compose up -d`
+Start LibrePhotos with `docker compose up -d`
 
 You should have LibrePhotos accessible after a few minutes of boot-up on [localhost:3000](http://localhost:3000)
 
